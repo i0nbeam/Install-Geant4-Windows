@@ -1,6 +1,3 @@
-
----
-
 Hi, this is my guide to installing GEANT4 on Windows. Many guides have you build from the raw source code, but to make things easier we're going to do it via the precompiled Windows binaries that CERN so graciously provides us (this level of charity towards Windows users is unprecedented).
 
 This guide holds your hand, no offense if you're actually a C++ and Windows expert.
