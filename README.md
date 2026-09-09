@@ -11,7 +11,7 @@ This guide holds your hand, no offense if you're actually a C++ and Windows expe
 
 ### Installing BuildTools
 
-Install `vs_BuildTools.exe` from [Visual Studio Build Tools](https://aka.ms/vs/stable/vs_BuildTools.exe) and run it. Select "Desktop development with C++" and make sure you have the same boxes ticked as I do.
+Download `vs_BuildTools.exe` from [Visual Studio Build Tools](https://aka.ms/vs/stable/vs_BuildTools.exe) and run it. Select "Desktop development with C++" and make sure you have the same boxes ticked as I do.
 
 ![buildtools|1095](buildtools.png)
 
@@ -20,7 +20,7 @@ Then click "Install".
 
 ### Installing GEANT4
 
-Run the GEANT4 installer you got from [GEANT4 installer](https://cern.ch/geant4-data/releases/lib4.11.4.p02/WIN64-VC17.11.4-11.exe). By default, it likes to install to `C:\Program Files`. The Program Files folder always requires admin approval to make changes to, so I'd advise to install it to a different location. I installed it to my Documents folder in `C:\Users\YOURUSERNAME\Documents\Geant4-11.4`. 
+Run the GEANT4 installer you got from [GEANT4 installer](https://cern.ch/geant4-data/releases/lib4.11.4.p02/WIN64-VC17.11.4-11.exe). By default, it likes to install to `C:\Program Files`. The Program Files folder always requires admin approval to make changes to it, so I'd advise to install it to a different location. I installed it to my Documents folder in `C:\Users\YOURUSERNAME\Documents\Geant4-11.4`. 
 
 After installation, here is what `C:\Users\YOURUSERNAME\Documents\Geant4-11.4` should look like (ignore the `datasets` and `examples` folders):
 
