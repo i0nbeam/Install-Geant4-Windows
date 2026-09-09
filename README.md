@@ -98,6 +98,7 @@ If you got to this point without any problems, **you're done!**
 ### Helpful links
 
 - [GEANT4 YouTube Tutorials](https://www.youtube.com/playlist?list=PLLybgCU6QCGWgzNYOV0SKen9vqg4KXeVL) - This guy has tutorials for constructing a detector, creating the physics list, and everything else you'll need to do to create your own custom detector simulation.
+- [GEANT4 Beginners' Manual](https://geant4-userdoc.web.cern.ch/UsersGuides/ForApplicationDeveloper/html/Introduction/introduction.html)
 
 
 
